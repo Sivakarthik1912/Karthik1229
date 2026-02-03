@@ -217,7 +217,7 @@ export default function App() {
       tags: ["Spring Boot", "JWT", "MySQL", "React", "REST API"],
       icon: <FaServer />,
       linkText: "Case study",
-      link: "",
+      link: "https://github.com/Sivakarthik1912/finace_tracking",
     },
     {
       title: "Cab Booking Service",
@@ -227,7 +227,7 @@ export default function App() {
       tags: ["HTML", "CSS", "MySQL", "React", "REST API"],
       icon: <FaServer />,
       linkText: "Case study",
-      link: "",
+      link: "https://github.com/Sivakarthik1912/Cab_Booking_Service",
     },
     {
       title: "AI ChatBot Integration",
@@ -237,7 +237,7 @@ export default function App() {
       tags: ["Python", "OpenAI", "PDF", "Email", "Automation"],
       icon: <FaCode />,
       linkText: "View features",
-      link: "",
+      link: "https://github.com/Sivakarthik1912/AI_Chatbot-",
     },
     {
       title: "AI ChatBot Assistant For A Company Website",
@@ -247,7 +247,7 @@ export default function App() {
       tags: ["Python", "OpenAI", "Admin Panel", "PDF", "RAG"],
       icon: <FaDatabase />,
       linkText: "See workflow",
-      link: "",
+      link: "https://github.com/Sivakarthik1912/AI_Chatbot_Assistant",
     },
   ];
  // Experience / Timeline data
