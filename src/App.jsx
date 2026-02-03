@@ -142,7 +142,7 @@ function ProjectCard({ p }) {
 
 export default function App() {
   const sectionIds = useMemo(
-    () => ["home", "about", "skills", "projects", "experience", "contact"],
+    () => ["home", "about", "skills", "projects", "education", "contact"],
     []
   );
   const active = useActiveSection(sectionIds);
