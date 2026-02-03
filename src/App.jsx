@@ -216,7 +216,7 @@ export default function App() {
         "Built a complete finance tracking system with real-time updates, user authentication, and responsive UI .",
       tags: ["Spring Boot", "JWT", "MySQL", "React", "REST API"],
       icon: <FaServer />,
-      linkText: "Case study",
+      linkText: "Code Review",
       link: "https://github.com/Sivakarthik1912/finace_tracking",
     },
     {
@@ -226,7 +226,7 @@ export default function App() {
         "Built a complete cab booking service with user registration, driver management, and real-time tracking.",
       tags: ["HTML", "CSS", "MySQL", "React", "REST API"],
       icon: <FaServer />,
-      linkText: "Case study",
+      linkText: "Code Review",
       link: "https://github.com/Sivakarthik1912/Cab_Booking_Service",
     },
     {
@@ -236,7 +236,7 @@ export default function App() {
         "Integrated AI chatbot capabilities with OpenAI's API and automated PDF generation for user interactions.",
       tags: ["Python", "OpenAI", "PDF", "Email", "Automation"],
       icon: <FaCode />,
-      linkText: "View features",
+      linkText: "Code Review",
       link: "https://github.com/Sivakarthik1912/AI_Chatbot-",
     },
     {
@@ -246,7 +246,7 @@ export default function App() {
         "Developed an AI chatbot assistant for a company website, integrating REST APIs and an admin panel for managing user interactions.",
       tags: ["Python", "OpenAI", "Admin Panel", "PDF", "RAG"],
       icon: <FaDatabase />,
-      linkText: "See workflow",
+      linkText: "Code Review",
       link: "https://github.com/Sivakarthik1912/AI_Chatbot_Assistant",
     },
   ];
