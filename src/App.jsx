@@ -521,7 +521,7 @@ export default function App() {
       </section>
 
       {/* EXPERIENCE */}
-      <section id="experience" className="section">
+      <section id="education" className="section">
         <div className="container">
           <SectionTitle
             eyebrow="Education"
